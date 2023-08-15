@@ -1,5 +1,5 @@
 # django-authentication
-C'est un systéme d'authentification complét.
+C'est un systéme d'authentification complét niveau backend.
 
 Vous pouvez cloner ce travail juste ici:
 
